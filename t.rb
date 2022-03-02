@@ -1,8 +1,4 @@
-puts "tuц"
 
-
-#sdfghk.
-
-#not ruby anymore xD
+#sending to the 2nd_new_branch
 
 
