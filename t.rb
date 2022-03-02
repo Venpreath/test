@@ -1,8 +1,8 @@
-puts "tuц"
 
+#sending to the 2nd_new_branch
 
-#sdfghk.
-
-#not ruby anymore xD
-
-
+asas
+asass
+asasa
+s
+asass
